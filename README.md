@@ -1,4 +1,4 @@
-Facial Recognition Advanced Attendance System
+#Facial Recognition Advanced Attendance System
 This project is a smart attendance management system designed for educational institutions. It uses facial recognition to automate student attendance, enhancing accuracy, security, and efficiency.
 
 📌 Features
