@@ -23,12 +23,5 @@ MySQL
 
 Pillow (PIL), NumPy
 
-🛠️ Setup
-bash
-Copy
-Edit
-git clone https://github.com/your-username/face-attendance.git
-cd face-attendance
-pip install -r requirements.txt
-python main.py
+
 
